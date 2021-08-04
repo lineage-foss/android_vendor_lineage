@@ -120,7 +120,8 @@ PRODUCT_PACKAGES += \
 # F-Droid
 PRODUCT_PACKAGES += \
     FDroid \
-    FDroidPrivilegedExtension
+    FDroidPrivilegedExtension \
+    microG-repos
 
 # F-Droid Priviliged Extension permissions
 PRODUCT_COPY_FILES += \
